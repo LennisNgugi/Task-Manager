@@ -59,9 +59,9 @@ To get a local copy up and running, follow these simple steps.
     # .env
     
     # SUPABASE_URL
-    VITE_SUPABASE_URL=your_supabase_url_here
+    SUPABASE_URL=your_supabase_url_here
     # SUPABASE_ANON_KEY
-    VITE_SUPABASE_ANON_KEY=your_anon_key_here
+    SUPABASE_ANON_KEY=your_anon_key_here 
     ```
     
 5.  **Start the server:**
