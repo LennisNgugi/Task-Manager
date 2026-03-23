@@ -53,7 +53,7 @@ To get a local copy up and running, follow these simple steps.
     npm install crypto-js
     ```
     
-5.  **Configure Environment Variables for the login, sign up and sessions by updating the `.env` file in the root of the project with your [supabase](https://supabase.com) credentials.**
+4.  **Configure Environment Variables for the login, sign up and sessions by updating the `.env` file in the root of the project with your [supabase](https://supabase.com) credentials.**
 
     ```dotenv
     # .env
@@ -73,6 +73,12 @@ To get a local copy up and running, follow these simple steps.
 6.  **Access the application:**
     Open your web browser and navigate to `http://localhost:202`. This will load the login page.
  
+7.  **Use hard coded supabase credentials in public/supabase.js if .env is not allowing you to log into your account.**
+
+    ```dotenv
+    const SUPABASE_URL = 'your_supabase_url_here'
+    const SUPABASE_ANON_KEY = 'your_anon_key_here'
+    ```
 
 ## API Endpoints
 
