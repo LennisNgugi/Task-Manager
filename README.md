@@ -53,7 +53,7 @@ To get a local copy up and running, follow these simple steps.
     npm install crypto-js
     ```
     
-5.  **Configure Environment Variables for the login, sign up and sessions by updating the `.env` file in the root of the project with your supabase  [supabase](https://supabase.com) credentials.**
+5.  **Configure Environment Variables for the login, sign up and sessions by updating the `.env` file in the root of the project with your [supabase](https://supabase.com) credentials.**
 
     ```dotenv
     # .env
