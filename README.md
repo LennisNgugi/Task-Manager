@@ -52,6 +52,18 @@ To get a local copy up and running, follow these simple steps.
     npm install typescript
     npm install crypto-js
     ```
+    
+5.  **Configure Environment Variables for the login, sign up and sessions by updating the `.env` file in the root of the project and add your supabase credentials.**
+
+    ```dotenv
+    # .env
+    
+    # SUPABASE_URL
+    VITE_SUPABASE_URL=your_supabase_url_here
+    # SUPABASE_ANON_KEY
+    VITE_SUPABASE_ANON_KEY=your_anon_key_here
+    ```
+    
 5.  **Start the server:**
     ```sh
     node server.js
@@ -60,11 +72,7 @@ To get a local copy up and running, follow these simple steps.
 
 6.  **Access the application:**
     Open your web browser and navigate to `http://localhost:202`. This will load the login page.
-
-7.  **Login:**
-    The registration page is currently being reconfigured, so may take longer than expected when creating a new account. Use the following credentials to sign in:
-    *   **Email:** `info@taskmanager.com`
-    *   **Password:** `5E8Zlu01(kcz1wj*50gF`
+ 
 
 ## API Endpoints
 
