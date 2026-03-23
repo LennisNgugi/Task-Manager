@@ -36,7 +36,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/514437/Task-Manager.git
+    git clone https://github.com/LennisNgugi/Task-Manager.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
