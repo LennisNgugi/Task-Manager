@@ -121,7 +121,8 @@ The backend server provides the following RESTful API endpoints for managing tas
 │   ├── dashboard.js       # Javascript for the main Kanban board page
 │   ├── index.html         # The login page
 │   ├── index.css          # Styles for the login page
-│   ├── logout.js          # Javascript logout function 
+│   ├── logout.js          # Javascript logout function
+│   ├── notification.css   # Styles for the notification popup
 │   ├── register.html      # The user registration page
 │   ├── register.css       # Styles for the registration page 
 │   ├── auth.js            # Supabase email/password login logic
