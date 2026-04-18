@@ -3,7 +3,7 @@
 
 A full-stack task management application featuring a json database that uses Node.js/Express for the backend and html, css and javascript, for the frontend. It provides a Kanban-style dashboard for organising tasks and authentication for users is managed by Supabase. Encryption is used to encrypt and decrypt text when it appears on a web browser. 
 
-![Dashboard](https://github.com/514437/Task-Manager/blob/main/Screens/View_Tasks.png)
+![Dashboard](https://github.com/514437/Task-Manager/blob/main/Screens/TaskManager.gif)
 
 ## Features
 
