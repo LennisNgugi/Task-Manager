@@ -135,6 +135,7 @@ The backend server provides the following RESTful API endpoints for managing tas
 |   ├── Search.png         # Screen Displaying Search Page
 |   ├── Sign_In.png        # Screen Displaying Sign In Page
 |   ├── Sign_Up.png        # Screen Displaying Sign Up Page
+|   ├── TaskManager.gif    # Screen Displaying Task Manager
 |   ├── Update_Task_1.png  # Screen Displaying Update
 |   ├── Update_Task_2.png  # Screen Displaying Update 
 │   └── View_Tasks.png     # Screen Displaying Dashboard
