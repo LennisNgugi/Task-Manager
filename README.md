@@ -129,7 +129,7 @@ The backend server provides the following RESTful API endpoints for managing tas
 │   ├── register.js        # Supabase registration logic
 │   ├── supabase.js        # Supabase client initialisation
 │   └── styles.css         # Styling used throughout web app
-├── Screens/               # Screens of Task Manager (png)
+├── Screens/               # Screens of Task Manager (PNG & GIF)
 |   ├── Delete_Task_1.png  # Screen Displaying Deleted Task
 |   ├── Delete_Task_2.png  # Screen Displaying Deleted Task
 |   ├── New_Task.png       # Screen Displaying New Task Added
